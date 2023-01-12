@@ -16,7 +16,7 @@ print ('Lollyta Buko')
 
 print ('Jūlija Šukste')
 
-
+print ('Sandis Minkevičs')
 
 
 
