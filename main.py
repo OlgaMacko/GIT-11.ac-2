@@ -1,5 +1,8 @@
 print ('Olga Macko')
 
+print ('Rihards Safins')
+
+
 print ('Viesturs Nartišs')
 
 
@@ -15,6 +18,7 @@ print ('Ivars Ovčinko')
 print ('Lollyta Buko')
 
 print ('Jūlija Šukste')
+
 
 
 
